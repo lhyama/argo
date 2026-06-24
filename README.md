@@ -1,0 +1,1 @@
+"# Holsa ArgoCD Lab 21/06/26"
