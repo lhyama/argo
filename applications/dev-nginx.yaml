@@ -11,7 +11,7 @@ spec:
 
   source:
     repoURL: https://github.com/lhyama/argo.git
-    targetRevision: HEAD
+    targetRevision: master
     path: apps/dev/nginx
 
   destination:
